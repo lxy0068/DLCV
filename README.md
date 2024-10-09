@@ -2,6 +2,10 @@
 
 Small target traffic sign recognition and web visualization based on YOLOv5 v6 v7 v8 platform
 
+![image](https://github.com/user-attachments/assets/0c7d0aee-ef54-4c9b-9b3e-1a6bc00a265f)
+![image](https://github.com/user-attachments/assets/7f3db97a-3daa-45f4-9756-bb58670c99cd)
+![image](https://github.com/user-attachments/assets/db513557-a259-4208-aebe-eca9d9addec3)
+
 ![labels_correlogram](https://github.com/user-attachments/assets/33ad64ac-43e5-4437-b350-be17a9392d7b)
 ![labels](https://github.com/user-attachments/assets/dac66b05-205c-4546-8f74-40de31e386d4)
 ![train_batch0](https://github.com/user-attachments/assets/809e8a6e-d395-4155-aa54-a559c4eb3399)
