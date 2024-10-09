@@ -124,7 +124,6 @@ This project is a YOLO-based object detection and recognition system designed to
 ![image](https://github.com/user-attachments/assets/ce57ca4d-a0e2-4143-877e-ca543dc78faf)
 ![image](https://github.com/user-attachments/assets/e632842b-8692-40f7-8873-62db2cdc403c)
 ![image](https://github.com/user-attachments/assets/b3d8cedb-c244-4cc4-bec1-a7a09e62acb4)
-https://github.com/user-attachments/assets/d06a5062-ae29-409b-a31d-73be7da85255
 
 
 
